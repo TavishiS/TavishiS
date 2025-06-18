@@ -1,95 +1,94 @@
-<h1 align="center">Hi 👋, I'm Tavishi Srivastava</h1>
-<h3 align="center">3rd Year CSE Student at IIT Jodhpur | Web Development Enthusiast | Passionate Coder | Singer 🎶</h3>
+```markdown
+<h1 align="center">Hi there! 👋 I'm <span style="color:#ff69b4">Tavishi Srivastava</span></h1>
+<h3 align="center">🎓 3rd Year CSE Student at IIT Jodhpur | 💻 Web Dev & Coding Enthusiast | 🎶 Music Lover</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TavishiS&label=Profile%20views&color=0e75b6&style=flat" alt="TavishiS" />
+  <img src="https://komarev.com/ghpvc/?username=TavishiS&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💫 About Me
+### 🌸 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at **IIT Jodhpur**
-- 🌐 I’m a **passionate web developer**, eager to build impactful websites and scalable web apps
-- 💻 I enjoy **problem solving with C++ and Python**, and have strong foundations in **DSA**
-- 🧑‍💻 I have worked with **Django, React.js, Flask, MongoDB, MySQL, MongoDB Atlas**
-- ☁️ I’ve hosted websites using **Render**
-- 🎤 I’m also a **singer by heart**, part of the **Music Society (Sangam)** at IIT Jodhpur
-- 🏅 Winner/Participant in competitions like **Ignus, Spandan, Prometeo** and **Inter-IIT Cultural Meet**
+- 🎓 B.Tech CSE @ **IIT Jodhpur** (2023–Present)
+- 💻 Passionate about **web development**, especially with Django, Flask & React
+- 💡 Love solving problems with **C++** and **Python**
+- ☁️ Deployed projects on **Render**
+- 💽 Experienced with **MySQL**, **MongoDB**, and **MongoDB Atlas**
+- 🎤 **Singer** at heart — proud member of **Sangam**, IITJ’s Music Society
+- 🏆 Participated in **Ignus**, **Spandan**, **Prometeo**, **Inter-IIT Cultural Meet**
 
 ---
 
-### 🧠 Skills & Technologies
+### 🛠️ Skills & Technologies
 
-#### 🚀 Programming & Development
-- **Languages:** C++, Python, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Django, Flask  
-- **Databases:** MySQL, MongoDB, MongoDB Atlas  
-- **Tools & Platforms:** GitHub, Google Colab, Render  
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,django,flask,mysql,mongodb,git,github&theme=light"/>
+
+</div>
 
 ---
 
 ### 🎓 Education
 
-- 🏫 **Indian Institute of Technology (IIT) Jodhpur**  
-  B.Tech in Computer Science and Engineering (2023 - Present)  
-  Strong foundations in DSA, Software Engineering, Web Dev, Communication & Collaboration
+**📍 Indian Institute of Technology (IIT) Jodhpur**  
+B.Tech in Computer Science and Engineering | 2023–Present
+- Learned DSA, Software Engineering, Web Development
+- Improved soft skills, communication, and collaboration
 
-- 🏫 **Girls' High School & College, Prayagraj**  
-  - ICSE Class 10th (2019–2020): 97% with 💯 in Computer Science  
-  - ISC Class 12th (2020–2022): 99.5%, 💯 in Computer Science, Maths & Chemistry  
-    - 🏅 Honoured by **CM Yogi Adityanath Ji** for securing **All India Rank 2** in my ISC Class 12th Board Examinations...
-
----
-
-### 📂 Projects
-
-<!-- Replace below with actual GitHub repo links and project summaries -->
-- 📸 **MoodFlix**  
-  A movie recommending web application which allows users to give text, voice or form input indicating their current mood and feeling, and in response, they would be recommended five movies best matching their mood.  
-  [GitHub Repo](https://github.com/TavishiS/Emotion2Movies)
-
-- 📝 **ToDo App**  
-  A basic ToDo web application featuring CRUD operations on SQLite database. The app supports multi-user usability and Login/Logout functionality.  
-  [GitHub Repo](https://github.com/TavishiS/ToDo-app)
-
-- 🚺 **Face Identification**  
-  Identification of a person (in the LFW Dataset) with the help of their image using traditional Machine Learning techniques such as Decision Tree, KNN, Clustering, Random Forest, ANN, and Naive Bayes.
-  [GitHub Repo](https://github.com/AgarwalMayank2/Face_Identification)
-
-<!-- Add more projects here -->
-
-- 👩‍🎓 **Student Management System**  
-  A simple Student Management System for an institution using File Handling in C, to store, view, sort and search for student records.
-  [GitHub Repo](https://github.com/TavishiS/Student_Management_System)
-
-- 🎯 **Quiz Game**  
-  A Quiz consisting of 3 levels-Easy, Medium and Hard. The player would dynamically get to know if their answer is correct or not.
-  [GitHub Repo](https://github.com/TavishiS/Quiz_Game)
-
-### ☎ Contact Me
-
-- 📧 Email: **tavishi.srivastava2004@gmail.com**  
-- 🔗 LinkedIn: [Tavishi Srivastava](https://www.linkedin.com/in/tavishi2004/)  
-- 🪪 Portfolio: [tavishis.github.io/Tavishi_Portfolio](https://tavishis.github.io/Tavishi_Portfolio/)
+**📍 Girls' High School & College, Prayagraj**
+- 📘 **Class 10 (ICSE)** – 97% with 💯 in CS
+- 📘 **Class 12 (ISC)** – 99.5% | 💯 in CS, Maths & Chemistry
+  - 🥇 Honoured by **CM Yogi Adityanath Ji** for **AIR 2** in ISC Boards
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Projects
+
+> 💡 *Click the project name to visit the repo!*
+
+| Preview | Name | Description |
+|--------|------|-------------|
+| 🎬 | [**MoodFlix**](https://github.com/TavishiS/Emotion2Movies) | Recommends movies based on user's mood input (text/voice/form). |
+| ✅ | [**ToDo App**](https://github.com/TavishiS/ToDo-app) | A multi-user task manager with CRUD features and authentication. |
+| 🧠 | [**Face Identification**](https://github.com/AgarwalMayank2/Face_Identification) | Classifies faces in the LFW dataset using multiple ML algorithms. |
+| 📚 | [**Student Management System**](https://github.com/TavishiS/Student_Management_System) | Console-based record manager built in C using file handling. |
+| 🧩 | [**Quiz Game**](https://github.com/TavishiS/Quiz_Game) | A level-based quiz system with instant feedback on answers. |
+
+---
+
+### 🌐 Contact Me
+
+- 📧 Email: [tavishi.srivastava2004@gmail.com](mailto:tavishi.srivastava2004@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/tavishi2004](https://www.linkedin.com/in/tavishi2004/)  
+- 🌍 Portfolio: [tavishis.github.io/Tavishi_Portfolio](https://tavishis.github.io/Tavishi_Portfolio/)
+
+---
+
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TavishiS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavishiS&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TavishiS&show_icons=true&theme=bubblegum" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavishiS&layout=compact&theme=bubblegum" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🎵 Fun Fact
 
-> “When I’m not coding, you’ll find me singing melodies 🎤🎶 — music is my therapy.”
+> "When I’m not coding, you’ll find me singing melodies 🎤🎶 — music is my therapy."
 
 ---
 
-⭐️ *Thank you for visiting my profile! Feel free to connect or collaborate.* 🤝
+### 💖 Aesthetic Touches
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rvPW/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  ⭐️ *Thanks for stopping by! Feel free to connect, collaborate or just say hi!* ⭐️
+</p>
+```
