@@ -80,7 +80,7 @@
 ### 🎵 Fun Fact
 
 > <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F73AA3&center=true&vCenter=true&width=600&lines=When+I'm+not+coding%2C+I'm+singing+%F0%9F%8E%A4;Music+is+my+therapy+%F0%9F%8E%B6%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=When+I'm+not+coding%2C+I'm+singing+%F0%9F%8E%A4;Music+is+my+therapy+%F0%9F%8E%B6%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 
