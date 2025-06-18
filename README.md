@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/AsV1aV1f1eLAo/giphy.gif" width="250" />
+  <img src="https://media1.tenor.com/m/gpBF52q-uS4AAAAC/bang-dream-girl.gif" width="250" />
 </p>
 
 ---
