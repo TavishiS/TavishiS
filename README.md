@@ -82,8 +82,8 @@
 > “When I’m not coding, I’m probably humming a tune 🎤 — music is my therapy.”
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <img src="https://media1.tenor.com/m/gpBF52q-uS4AAAAC/bang-dream-girl.gif" width="250" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200"/>
+  <img src="https://media1.tenor.com/m/gpBF52q-uS4AAAAC/bang-dream-girl.gif" width="200" height="200" />
 </p>
 
 ---
