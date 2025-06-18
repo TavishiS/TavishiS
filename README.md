@@ -15,7 +15,7 @@
 - ☁️ Deployed websites using **Render**
 - 💽 Experienced with **MySQL**, **MongoDB**, and **MongoDB Atlas**
 - 🎤 **Singer** at heart — member of **Sangam**, IITJ’s Music Society
-- 🏆 Performed at **Ignus**, **Spandan**, **Prometeo**, and **Inter-IIT Cultural Meet**
+- 🏆 Performed at **Ignus**, **Spandan**, **Prometeo**, and **Inter-IIT Cultural Meet (2024)**
 
 ---
 
@@ -38,13 +38,13 @@
 
 - 🏫 **Indian Institute of Technology (IIT) Jodhpur**  
   B.Tech in Computer Science and Engineering (2023 - Present)  
-  - Core subjects: DSA, Software Engineering, Web Dev  
-  - Learned teamwork, communication & leadership
+  - Core subjects and skills learnt: DSA, Software Engineering, Web Development, and still counting...  
+  - Learnt teamwork, communication & socialising skills.
 
 - 🏫 **Girls' High School & College, Prayagraj**  
-  - Class 10 (ICSE): 97% | 💯 in Computer Science  
-  - Class 12 (ISC): 99.5% | 💯 in CS, Maths, Chemistry  
-  - 🏅 Felicitated by **CM Yogi Adityanath Ji** for securing **AIR 2**
+  - Class 10 (ICSE): 97% | 💯 in Computer Science.
+  - Class 12 (ISC): 99.5% | 💯 in Computer Science, Maths, Chemistry.
+  - 🏅 Felicitated by **CM Yogi Adityanath Ji** for securing **AIR 2** in my ISC Class 12th Board Examinations.
 
 ---
 
@@ -52,11 +52,11 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🎬 MoodFlix | Recommends movies based on user’s mood (text/voice/form) | [Repo](https://github.com/TavishiS/Emotion2Movies) |
-| ✅ ToDo App | Multi-user task manager with CRUD features & login | [Repo](https://github.com/TavishiS/ToDo-app) |
-| 🧠 Face Identification | ML-based recognition on LFW dataset | [Repo](https://github.com/AgarwalMayank2/Face_Identification) |
-| 👩‍🎓 Student Manager | C-based student record manager using file handling | [Repo](https://github.com/TavishiS/Student_Management_System) |
-| 🧩 Quiz Game | 3-level quiz with live feedback | [Repo](https://github.com/TavishiS/Quiz_Game) |
+| 🎬 MoodFlix | Recommends movies based on user’s mood (text/voice/form input) | [Repo](https://github.com/TavishiS/Emotion2Movies) |
+| ✅ ToDo App | Multi-user task manager with CRUD features & signup/login functionality | [Repo](https://github.com/TavishiS/ToDo-app) |
+| 🧠 Face Identification | ML-based face identification on LFW dataset using traditional classification techniques such as, Decision Tree, KNN, Naive Bayes, ANN, Random Forest, etc. | [Repo](https://github.com/AgarwalMayank2/Face_Identification) |
+| 👩‍🎓 Student Manager | C-based Student Record Manager using File Handling | [Repo](https://github.com/TavishiS/Student_Management_System) |
+| 🧩 Quiz Game | 3-level quiz (easy, medium and hard) with live feedback on chosen answers | [Repo](https://github.com/TavishiS/Quiz_Game) |
 
 ---
 
