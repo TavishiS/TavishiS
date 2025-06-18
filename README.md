@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Tavishi Srivastava</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&duration=3000&pause=800&color=F973C3&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tavishi+Srivastava!;Welcome+to+my+GitHub+World+%F0%9F%A4%96%E2%9C%A8" alt="Typing SVG" />
+</h1>
 <h3 align="center">🎓 3rd Year CSE @ IIT Jodhpur | 💻 Web Dev & Coding Enthusiast | 🎶 Music Lover</h3>
 
 <p align="center">
