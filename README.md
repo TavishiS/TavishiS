@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rvPW/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0zZnFiemZhcWN5bXRhM3R4ZmR0cmZqc3hrd3Z3emx1dDMycHB1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rYEAOUIEGsGXHkZxEB/giphy.gif" width="250" />
 </p>
 
 ---
