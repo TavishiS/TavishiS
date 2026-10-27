@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Generate Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@v2
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # This token is automatically provided by GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
